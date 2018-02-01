@@ -7,6 +7,9 @@ Sample testing app with haproxy and nginx.
 	5. check the shell file to change the sequence of the request.
 
 Just put 
+
 	$ docker-compose up
+
 Then run the bash file from another command prompt window/tab
+
 	$bash curl_check.sh
